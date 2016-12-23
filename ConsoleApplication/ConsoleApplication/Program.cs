@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
@@ -10,6 +6,8 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(args != null);
+
             Console.Write("main");
         }
     }
