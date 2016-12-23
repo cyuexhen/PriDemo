@@ -9,6 +9,8 @@ namespace ConsoleApplication
             Console.WriteLine(args != null);
 
             Console.Write("main");
+
+            Console.ReadKey();
         }
     }
 }
