@@ -11,6 +11,10 @@ namespace ConsoleApplication
             Console.Write("main");
 
             Console.ReadKey();
+
+            Console.WriteLine("1");
+
+            Console.WriteLine("2");
         }
     }
 }
